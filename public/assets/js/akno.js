@@ -356,8 +356,8 @@
         if (x.message === 'rate') { out.textContent = 'Trop de tentatives. Réessaie dans une minute.'; return; }
         const bl = $('input[name=budget]:checked', form);
         const body = `Nom : ${data.name}\nE-mail : ${data.email}\nService : ${data.service || '—'}\nBudget : ${bl ? bl.dataset.label : '—'}\n\n${data.message}`;
-        const href = `mailto:hello@akno.fr?subject=${encodeURIComponent('[AKNO] ' + data.subject)}&body=${encodeURIComponent(body)}`;
-        out.classList.add('is-info'); out.innerHTML = `Envoi direct indisponible sur cette version. <a href="${href}">Ouvrir ma messagerie avec ma demande pré-remplie</a> ou écris à hello@akno.fr.`;
+        const href = `mailto:aknoweb.contact@gmail.com?subject=${encodeURIComponent('[AKNO] ' + data.subject)}&body=${encodeURIComponent(body)}`;
+        out.classList.add('is-info'); out.innerHTML = `Envoi direct indisponible sur cette version. <a href="${href}">Ouvrir ma messagerie avec ma demande pré-remplie</a> ou écris à aknoweb.contact@gmail.com.`;
       }
     });
   });
