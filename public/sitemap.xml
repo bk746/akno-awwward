@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://akno.fr/</loc></url><url><loc>https://akno.fr/services/</loc></url><url><loc>https://akno.fr/realisations/</loc></url><url><loc>https://akno.fr/realisations/elegencia/</loc></url><url><loc>https://akno.fr/realisations/kafe/</loc></url><url><loc>https://akno.fr/realisations/bk-architecture/</loc></url><url><loc>https://akno.fr/realisations/avero/</loc></url><url><loc>https://akno.fr/realisations/aubelac/</loc></url><url><loc>https://akno.fr/methode/</loc></url><url><loc>https://akno.fr/copilot/</loc></url><url><loc>https://akno.fr/parrainage/</loc></url><url><loc>https://akno.fr/a-propos/</loc></url><url><loc>https://akno.fr/contact/</loc></url><url><loc>https://akno.fr/mentions-legales/</loc></url><url><loc>https://akno.fr/confidentialite/</loc></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://akno.fr/</loc></url>
+  <url><loc>https://akno.fr/services/</loc></url>
+  <url><loc>https://akno.fr/realisations/</loc></url>
+  <url><loc>https://akno.fr/realisations/alric/</loc></url>
+  <url><loc>https://akno.fr/realisations/vauclair/</loc></url>
+  <url><loc>https://akno.fr/realisations/lacets/</loc></url>
+  <url><loc>https://akno.fr/realisations/sublimessence/</loc></url>
+  <url><loc>https://akno.fr/realisations/veillee/</loc></url>
+  <url><loc>https://akno.fr/methode/</loc></url>
+  <url><loc>https://akno.fr/copilot/</loc></url>
+  <url><loc>https://akno.fr/parrainage/</loc></url>
+  <url><loc>https://akno.fr/a-propos/</loc></url>
+  <url><loc>https://akno.fr/contact/</loc></url>
+  <url><loc>https://akno.fr/mentions-legales/</loc></url>
+  <url><loc>https://akno.fr/confidentialite/</loc></url>
+</urlset>
