@@ -8,6 +8,10 @@ const PUBLIC_DIR = path.join(process.cwd(), "public");
 const STATIC_PAGES = [
   [],
   ["services"],
+  ["services", "site-web"],
+  ["services", "ui-ux"],
+  ["services", "seo"],
+  ["services", "refonte"],
   ["realisations"],
   ["realisations", "alric"],
   ["realisations", "vauclair"],
