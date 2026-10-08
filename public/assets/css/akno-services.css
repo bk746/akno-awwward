@@ -1,6 +1,7 @@
 /* Pages services dédiées — complète akno.css, ne remplace rien. */
 .shero{padding:calc(var(--hdr) + 28px) 0 clamp(48px,8vh,90px)}
 .shero__grid{position:relative;z-index:2;display:grid;gap:22px}
+.shero .hero__kicker{grid-column:auto;grid-row:auto;margin:0}
 .shero__title{font-weight:900;font-stretch:118%;font-size:clamp(2.7rem,7.4vw,8.4rem);line-height:.88;letter-spacing:-.05em;margin:8px 0 0;max-width:16ch}
 .shero__sw{display:flex;align-items:center;gap:18px}
 .shero__ico{width:52px;height:52px;color:var(--indigo-2);filter:drop-shadow(0 0 18px var(--indigo-glow))}
